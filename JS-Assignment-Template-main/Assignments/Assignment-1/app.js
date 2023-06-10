@@ -16,32 +16,36 @@
 //   QUESTION NO 3
 // 3. Write a script to display following message on your web 
 // page: (Hint : Use line break)
-// alert("Welcome to JS Land...\nHappy Coding!")
+// alert("Welcome to JS Land ...\nHappy Coding!")
 
 
 
 //   QUESTION NO 4
 // 4. Write a script to display following messages in sequence:
-alert("Welcome to JS Land...")
-alert(" Happy Coding  where is check box" )
+// alert("Welcome to JS Land...")
+// alert(" Happy Coding  " )
 
 
 
 
 
-document.getElementById('button')
-function button(){
-    alert(document.getElementById('separator').value)};
+
    
 
 //   QUESTION NO 5
 // 5. Generate the following message through browser’s 
 // developer console:
 
-   alert  (" Hello...I can run JS through my web browser's console");
+// console.log(  alert  (" Hello...I can run JS through my web browser's console"));
 //   QUESTION NO 6
 // 6. Make use of alerts in your new/existing HTML & CSS 
 // project.
+
+
+// function showAlert() {
+//     alert("hello");
+    
+// }
 
 
 
@@ -50,10 +54,20 @@ function button(){
 // 7. Practice placement of <script></script> element in 
 // following sections of your project in exercise 6:
 // a. Head
+// answer is commeted in html head section
 // b. Body (before your page’s HTML)
-
 // c. Body (inside your page’s HTML)
 // d. Body (after your page’s HTML)
+
+// answer is commeted in html head section
+// answer is commeted in  Body (after your page’s HTML)
+
+
+
+// function showAlert(event) {
+//     event.preventDefault(); 
+//     alert("Form submitted successfully!");
+// }
 
 // -- END --
 // completed questions

@@ -7,14 +7,14 @@
 // in a variable & checks whether the given input is a 
 // number, uppercase letter or lower case letter. (Hint: ASCII 
 // codes:- A=65, Z=90, a=97, z=122).
-var ch = prompt("Please enter any character.")
-if (ch>="a" && ch<="z") 
-{alert("You eneter lower case")
-    }
-    else if (ch>="A" && ch<="Z") {alert("You enter upper case")
-}
-else if (ch>="0" && ch<="9") {alert("You enter number case")
-    }
+// var ch = prompt("Please enter any character.")
+// if (ch>="a" && ch<="z") 
+// {alert("You eneter lower case")
+//     }
+//     else if (ch>="A" && ch<="Z") {alert("You enter upper case")
+// }
+// else if (ch>="0" && ch<="9") {alert("You enter number case")
+//     }
 
 
 // 2. Write a JavaScript program that accept two integers and
@@ -114,63 +114,21 @@ else if (ch>="0" && ch<="9") {alert("You enter number case")
 // hours clock format like: 1900 = 7pm. Implement the 
 // following case using if, else & else if statements
 // var time = prompt("Please enter time  in 24 hours clock format like: 19:00")
-// if (time = "01:00"){alert("its 1 o'clock")}
-// else if (time = "01:00"){alert("its 1 o'clock")}
-// if (time = "01:00"){alert("its 1 o'clock")}
-// if (time = "01:00"){alert("its 1 o'clock")}
-// if (time = "01:00"){alert("its 1 o'clock")}
-// if (time = "01:00"){alert("its 1 o'clock")}
-// if (time = "01:00"){alert("its 1 o'clock")}
-// if (time = "01:00"){alert("its 1 o'clock")}
-// if (time = "01:00"){alert("its 1 o'clock")}
-// if (time = "01:00"){alert("its 1 o'clock")}
-// if (time = "01:00"){alert("its 1 o'clock")}
-// if (time = "01:00"){alert("its 1 o'clock")}
-
-// if (time = "01:00"){alert("its 1 o'clock")}
-// if (time = "01:00"){alert("its 1 o'clock")}if (time = "01:00"){alert("its 1 o'clock")}
-// if (time = "01:00"){alert("its 1 o'clock")}if (time = "01:00"){alert("its 1 o'clock")}
-// if (time = "01:00"){alert("its 1 o'clock")}
-
-// function print24(str)
-// {
-//     // Get hours
-//     var h1 = Number(str[1] - '0');
-//     var h2 = Number(str[0] - '0');
-//     var hh = (h2 * 10 + h1 % 10);
-  
-//     // If time is in "AM"
-//     if (str[8] == 'A')
-//     {
-//         if (hh == 12)
-//         {
-//             document.write("00");
-//             for (var i = 2; i <= 7; i++)
-//                 document.write(str[i]);
-//         }
-//         else
-//         {
-//             for (var i = 0; i <= 7; i++)
-//                 document.write(str[i]);
-//         }
-//     }
-  
-//     // If time is in "PM"
-//     else
-//     {
-//         if (hh == 12)
-//         {
-//             document.write("12");
-//             for (var i = 2; i <= 7; i++)
-//                 document.write(str[i]);
-//         }
-//         else
-//         {
-//             hh = hh + 12;
-//             document.write(hh);
-//             for (var i = 2; i <= 7; i++)
-//                 document.write(str[i]);
-//         }
-//     }
+// if (time >= 0000 && time < 1200) {
+//   console.log('Good Morning');
+// } 
+// else if (time >= 1200 && time < 1700) {
+//     console.log('Good Afternoon')
 // }
-  
+//   else if (time >= 1700 && time < 2100) {
+//     console.log('Good Evening');
+//   }
+// else if (time >= 2100 && time < 2359){
+//     console.log('Good Night');
+//   }
+
+
+
+
+
+

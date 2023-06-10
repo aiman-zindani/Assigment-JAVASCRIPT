@@ -30,12 +30,12 @@
 // Yellow Ready to move
 // Green Move now
 
-
-
-// if ( Signal_color_Message = prompt(
-//   "input all the colors of road traffic signal ","red ,yellow, green"
-// )) {
-//   document.write("    <table>");
+// var Signal_color =( prompt( "Please enter any one colour of signal." ))
+// var Message = Signal_color.toLowerCase(Signal_color)
+// if (Message=="red") {alert(  " .....  .....  ..... Red .....  .....  ..... \n ********   Must Stop      ********   ");}
+// else if (Message=="red") {alert(  " .....  .....  ..... Yellow .....  .....  ..... \n ********    Ready to move     ********   ");}
+// else  if (Message=="red") {alert(  " .....  .....  ..... Green .....  .....  ..... \n ********   Move now     ********   ");}
+//   document.write("    <table style='border:2px solid skyblue;'>");
 //   document.write("        <tr>");
 //   document.write("            <th>Signal color </th>");
 //   document.write("            <th>Message</th>");
@@ -60,12 +60,12 @@
 //   document.write("        </tr>");
 
 //   document.write("    </table>");
-// }
+
 
 // 4. Write a program to take inputcfrom user. If the current fuel is less than 0.25litres,
 // show the message “Please refill the fuel in your car”
 
-// var fuel = prompt(" Remaining fuel in car (in litres) ")
+// var fuel = prompt(" Remaining fuel in car (in litres) ",)
 // if (fuel> 0.25) {alert("Please refill the fuel in your car")
      
 // }

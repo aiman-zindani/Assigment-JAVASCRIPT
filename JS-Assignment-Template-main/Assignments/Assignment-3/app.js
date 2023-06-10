@@ -7,7 +7,7 @@
 // your age in an alert box.
 
 
-// var  age  = 23
+// var  age  = 28
 // alert( "I am " + age + " years old.")
 
 
@@ -17,25 +17,15 @@
 // number of visits on your web page. For example: “You
 // have visited this site N times”.
 
-var start = 0
-var start  = ++1 
-alert(  start)
+
+// var times="16";
+// alert("You have visited this site " +times+ " times.")
+
+// document.write("<br>");
 
 
 
 
-//   var counterContainer = document.querySelector(".website-counter");
-// var visitCount = localStorage.getItem("page_view");
-
-// // Check if page_view entry is present
-// if (visitCount) {
-//   visitCount = Number(visitCount) + 1;
-//   localStorage.setItem("page_view", visitCount);
-// } else {
-// //   visitCount = 1;
-//   localStorage.setItem("page_view", 1);
-// }
-// counterContainer.innerHTML = visitCount;
 
 
 
@@ -43,7 +33,7 @@ alert(  start)
 // 3. Declare a variable called birthYear & assign to it your
 // birth year. Show the following message in your browser:
 
-// var birthyear = 1999;
+// var birthyear = 1947;
 // document.write(" My birth year is " + birthyear   +"</br>" ) 
 
 // document.write(" Data type of my  declared variable is Number")

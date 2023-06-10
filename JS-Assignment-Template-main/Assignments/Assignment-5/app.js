@@ -131,17 +131,11 @@
 
 // var celcius = 25
 // var conveter1 = (celcius *9/5)+32
+// document.write( celcius+ "<sup>o</sup>C is"  + conveter1 + "<sup>o</sup>F " +"<br/>" )
 
-// var myvar = "div id="main" "+
-// "   <div>"+"<sup>o</sup>C is"+
-// "   </div>"+
-// "</div>";
-
-
-// document.write( celcius + myvar  + conveter1)
 // var Fahrenheit = 70
 // var conveter2 = (Fahrenheit-32)*5/9
-// document.write(conveter1)
+// document.write( Fahrenheit+ "<sup>o</sup>F is"  + conveter2 + "<sup>o</sup>C "  )
 
 
 

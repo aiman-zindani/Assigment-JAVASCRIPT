@@ -63,8 +63,11 @@
 // display it’s multiplication table on your browser. If user
 // does not enter a new number, multiplication table of 5
 // should be displayed by default.
+
+
+
 // var usernum = prompt("Enter any number")
-// if (mynum=usernum) {
+// if (usernum<100) {
 //     document.write()
 //     var table = "Table of " + usernum
 // document.write(table + "</br>")
@@ -185,7 +188,3 @@
 
 // document.write('    </table>');
 
-// incomplete q No
-// (5)
-// incomplete q No
-// (1,2,3,,6)
